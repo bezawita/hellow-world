@@ -1,2 +1,3 @@
 # hellow-world
-learning github
+hello
+Am doing some project and i wanted to use github.
